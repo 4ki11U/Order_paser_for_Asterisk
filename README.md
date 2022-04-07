@@ -1,4 +1,4 @@
-# First-Python-Script
+# Python lxml-parser shop order for the Asterisk
 <i>Скрипт написанный на языке Python для сервера телефонии Asterisk.</i>
 
 ---
